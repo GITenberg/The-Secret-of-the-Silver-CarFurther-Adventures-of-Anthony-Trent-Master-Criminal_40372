@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40578'
     url: http://www.gutenberg.org/2009/agents/40578
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40372#The-Secret-of-the-Silver-CarFurther-Adventures-of-Anthony-Trent-Master-Criminal
 gutenberg_issued: '2012-07-30'
 gutenberg_type: Text
 identifiers:
